@@ -1,8 +1,8 @@
-### Đề tài: Xây Dựng Ứng Dụng Hỗ Trợ Đọc Văn Bản Dạng Ảnh Trên Màn Hình Cố Định
+# Đề tài: Xây Dựng Ứng Dụng Hỗ Trợ Đọc Văn Bản Dạng Ảnh Trên Màn Hình Cố Định
 ## GV Hướng Dẫn: TS. Nguyễn Sơn Hoàng Quốc
 ## SV Thực Hiện:
-# 1312232 - Đặng Bá Quang Huy - quanghuy4994@gmail.com - 0972678420
-# 1312406 - Trần Minh Nhí -  1312406@student.hcmus.edu.vn - 0969268396
+- 1312232 - Đặng Bá Quang Huy - quanghuy4994@gmail.com - 0972678420
+- 1312406 - Trần Minh Nhí -  1312406@student.hcmus.edu.vn - 0969268396
 ----------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------
 
